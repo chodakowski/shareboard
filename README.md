@@ -2,7 +2,7 @@
 Aplikacja zaliczeniowa na Programowanie internetowe w PHP
 
 
-<h1>Instrukcja instalacji</h1?
+<h1>Instrukcja instalacji</h1>
 <br>
 <p>Pobierz i zainstauj XAMPPa ze oficjalnej strony <a href="https://www.apachefriends.org/pl/index.html">klik</a><br>
 skopiuj folder do katalogu:<br>
